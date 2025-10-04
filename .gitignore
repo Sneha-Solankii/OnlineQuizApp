@@ -1,0 +1,12 @@
+# Eclipse specific
+.settings/
+.classpath
+.project
+bin/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Other
+*.log
